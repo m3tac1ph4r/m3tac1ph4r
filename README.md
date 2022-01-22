@@ -33,10 +33,12 @@
 
 
 <a href="https://twitter.com/ashutoshg21">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Ashutosh Gupta | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://medium.com/@ashutoshg547">
+  <img align="right" alt="Ashutosh Gupta | Medium" width="20px" src="assets/medium.svg"/>
+<a href="https://www.linkedin.com/in/ashutoshg547/">
+  <img align="right" alt="Ashutosh Gupta | Linkedin" width="20px" src="assets/linkedin.svg"/>
 </a>
 <!--
 **m3tac1ph4r/m3tac1ph4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
