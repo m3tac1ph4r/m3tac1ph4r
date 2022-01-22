@@ -25,12 +25,19 @@
 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/python.png?raw=true"></code>
 
 
-<h3>SOCIAL HANDLES 🌀</h3>
+<!-- <h3>SOCIAL HANDLES 🌀</h3>
 
 👉 <a href="https://twitter.com/ashutoshg21">Twitter</a>&nbsp;&nbsp;
 👉 <a href="https://medium.com/@ashutoshg547">Medium</a>&nbsp;&nbsp;
-👉 <a href="https://www.linkedin.com/in/ashutoshg547/">Linkedin</a>&nbsp;&nbsp;
+👉 <a href="https://www.linkedin.com/in/ashutoshg547/">Linkedin</a>&nbsp;&nbsp; -->
 
+
+<a href="https://twitter.com/ashutoshg21">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
 <!--
 **m3tac1ph4r/m3tac1ph4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
