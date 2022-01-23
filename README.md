@@ -6,7 +6,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=m3tac1ph4r&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&count_private=true" alt="Ashutosh's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3tac1ph4r&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<h3>Achievements and Milestone</h3>
+<h3>Achievements and Milestone🏆</h3>
 
 ✨ Seventh Position in hackCovid2.0. Project was CowinNotifier
 
