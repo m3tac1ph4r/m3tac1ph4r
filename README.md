@@ -3,7 +3,7 @@
 <h3>GITHUB STATS📊</h3>
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=m3tac1ph4r&count_private=true&show_icons=true&theme=dracula" /> -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=m3tac1ph4r&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ashutosh's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3tac1ph4r&layout=compact&theme=dracula&hide_border=true"></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=m3tac1ph4r&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Ashutosh's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3tac1ph4r&layout=compact&theme=dracula&hide_border=true"></a> |
 | ------------- | ------------- |
 
 <h3>Achievements and Milestone🏆</h3>
