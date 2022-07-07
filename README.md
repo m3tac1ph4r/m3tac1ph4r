@@ -4,7 +4,7 @@
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=m3tac1ph4r&count_private=true&show_icons=true&theme=dracula" /> -->
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=m3tac1ph4r&count_private=true&theme=radical&include_all_commits=true" alt="Ashutosh's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3tac1ph4r&layout=compact&theme=radical&hide_border=true"></a> |
-| ------------- | ------------- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <h3>Achievements and Milestone🏆</h3>
 
@@ -16,21 +16,19 @@
 
 <h3> 🌱 I’m currently learning </h3>
 
-* Data Structures and Algorithm.
-* JavaScript and Nodejs.
+- Data Structures and Algorithm.
+- MERN Stack.
 
 <h3>Area of Expertise 📕</h3>
 
 <code><img height="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/python.png?raw=true"></code>
 
-
 <!-- <h3>SOCIAL HANDLES 🌀</h3>
 
 👉 <a href="https://twitter.com/ashutoshg21">Twitter</a>&nbsp;&nbsp;
 👉 <a href="https://medium.com/@ashutoshg547">Medium</a>&nbsp;&nbsp;
 👉 <a href="https://www.linkedin.com/in/ashutoshg547/">Linkedin</a>&nbsp;&nbsp; -->
-
 
 <a href="https://twitter.com/ashutoshg21">
   <img align="right" alt="Ashutosh Gupta | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -53,4 +51,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
