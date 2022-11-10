@@ -14,6 +14,9 @@
 
 ✨ Hall of flame at HubSpot in bugcrowd.
 
+✨ Solved around 280+ questions on leetcode.
+
+
 <h3> 🌱 I’m currently learning </h3>
 
 - Data Structures and Algorithm.
